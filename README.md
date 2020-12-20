@@ -1,5 +1,5 @@
 # book-list-builder
-Shell script to pull info from the library of congress from a list of ISBNs
+Shell script to pull info from [openlibrary.org](https://openlibrary.org/dev/docs/api/books) from a list of ISBNs
 
 # usage
 
